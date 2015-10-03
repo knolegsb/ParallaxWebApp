@@ -65,6 +65,20 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\app.css" />
+    <Content Include="images\elk.jpg" />
+    <Content Include="images\icon-biathlon.png" />
+    <Content Include="images\icon-bobsled.png" />
+    <Content Include="images\icon-cross-country.png" />
+    <Content Include="images\icon-downhill.png" />
+    <Content Include="images\icon-snowboard.png" />
+    <Content Include="images\lake.jpg" />
+    <Content Include="images\range-1.png" />
+    <Content Include="images\range-2.png" />
+    <Content Include="images\range-3.png" />
+    <Content Include="images\range-4.png" />
+    <Content Include="images\range-5.png" />
+    <Content Include="images\snowboarder.jpg" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
